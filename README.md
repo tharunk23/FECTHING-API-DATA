@@ -8,7 +8,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 install this before use 
-
+vite+ react 
+use npm run dev 
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 npm i react-router-dom
